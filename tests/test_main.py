@@ -8,4 +8,3 @@ def test_restar():
 
 def test_multiplicar():
     assert multiplicar(3, 4) == 12
-    
